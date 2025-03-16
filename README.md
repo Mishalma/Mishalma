@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI-driven Data Scientist with expertise in machine learning,<br> deep learning, and AI-driven healthcare solutions. <br>Developer of ‘Wall,’ an advanced AI-powered analytics platform optimizing<br>data-driven decision-making. <br>Passionate about MLOps, model deployment,<br> and healthcare AI applications.
+AI-driven Data Scientist with expertise in machine learning,deep learning, and AI-driven healthcare solutions. Developer of ‘Wall,’ an advanced AI-powered analytics platform optimizing data-driven decision-making. <br>Passionate about MLOps, model deployment,<br> and healthcare AI applications.
 
 
 ## 🌐 Socials:
